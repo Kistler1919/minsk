@@ -1,0 +1,12 @@
+/Users/kisllah/Desktop/ProjectX/minsk/mc/bin/Debug/netcoreapp3.1/mc.deps.json
+/Users/kisllah/Desktop/ProjectX/minsk/mc/bin/Debug/netcoreapp3.1/mc.runtimeconfig.json
+/Users/kisllah/Desktop/ProjectX/minsk/mc/bin/Debug/netcoreapp3.1/mc.runtimeconfig.dev.json
+/Users/kisllah/Desktop/ProjectX/minsk/mc/bin/Debug/netcoreapp3.1/mc.dll
+/Users/kisllah/Desktop/ProjectX/minsk/mc/bin/Debug/netcoreapp3.1/mc.pdb
+/Users/kisllah/Desktop/ProjectX/minsk/mc/obj/Debug/netcoreapp3.1/mc.csprojAssemblyReference.cache
+/Users/kisllah/Desktop/ProjectX/minsk/mc/obj/Debug/netcoreapp3.1/mc.AssemblyInfoInputs.cache
+/Users/kisllah/Desktop/ProjectX/minsk/mc/obj/Debug/netcoreapp3.1/mc.AssemblyInfo.cs
+/Users/kisllah/Desktop/ProjectX/minsk/mc/obj/Debug/netcoreapp3.1/mc.csproj.CoreCompileInputs.cache
+/Users/kisllah/Desktop/ProjectX/minsk/mc/obj/Debug/netcoreapp3.1/mc.dll
+/Users/kisllah/Desktop/ProjectX/minsk/mc/obj/Debug/netcoreapp3.1/mc.pdb
+/Users/kisllah/Desktop/ProjectX/minsk/mc/obj/Debug/netcoreapp3.1/mc.genruntimeconfig.cache
