@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{ADACF82A-A91A-4EE9-BA79-3C93A6C660A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeAnalysis/Evaluator.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="CodeAnalysis/stuff.cs" Line="41" Column="26" />
+      <File FileName="CodeAnalysis/Evaluator.cs" Line="13" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mc" expanded="True">
+            <Node name="mc" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="CodeAnalysis" expanded="True">
+                <Node name="Evaluator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.mc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
