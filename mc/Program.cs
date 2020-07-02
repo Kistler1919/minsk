@@ -1,4 +1,4 @@
-﻿ using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using Minsk.CodeAnalysis;
@@ -15,12 +15,12 @@ namespace Minsk
     //     / \
     //    2   3
 
-    class Program
+   internal static class Program
     {
-        static void Main(string[] args)
+        private static void Main()
         {
-            Console.WriteLine("Hello World!");
-            bool showTree = false;
+            Console.WriteLine("Compiler Starting!!!");
+            var showTree = false;
             while (true)
             {
                 var line = Console.ReadLine();
@@ -44,10 +44,9 @@ namespace Minsk
 
                 if(showTree)
                 {
-                    var color = Console.ForegroundColor;
                     Console.ForegroundColor = ConsoleColor.DarkGray;
                     PrettyPrint(syntaxTree.Root);
-                    Console.ForegroundColor = color;
+                    Console.ResetColor();
                 }
 
                 if (!syntaxTree.Diagnostics.Any())
@@ -58,7 +57,6 @@ namespace Minsk
                 }
                 else
                 {
-                    var color = Console.ForegroundColor;
                     Console.ForegroundColor = ConsoleColor.DarkRed;
 
                     foreach (var diagnostic in syntaxTree.Diagnostics)
@@ -66,7 +64,7 @@ namespace Minsk
                         Console.WriteLine(diagnostic);
                     }
 
-                    Console.ForegroundColor = color;
+                    Console.ResetColor();
                 }
 
             }
@@ -107,8 +105,5 @@ namespace Minsk
         }
 
     }
-
-    
-
 
 }
